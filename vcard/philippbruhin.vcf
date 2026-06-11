@@ -3,24 +3,24 @@ VERSION:3.0
 N:Bruhin;Philipp;;;
 FN:Philipp Bruhin
 ORG:Sintio AG
-ADR;TYPE=WORK:Talstrasse 8, 8852 Altendorf
+ADR;TYPE=WORK:Talstrasse 8, 8852 Altendorf, Switzerland
 TITLE:Head of Software Engineering
 TEL;TYPE=CELL:
 TEL;TYPE=WORK:+41555053018
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:philipp.bruhin@sintio.ch
-URL;TYPE=Digital Business Card:https://www.philippbruhin.ch/vcard
+URL;TYPE=Digital Business Card:https://philippbruhin.ch/vcard/
 URL:https://www.sintio.ch
 URL;TYPE=Website:https://www.sintio.ch
+URL;TYPE=Location:https://maps.app.goo.gl/paFiTpp71uDnRsUn6
 URL;TYPE=LinkedIn:https://linkedin.com/in/philipp-bruhin
 URL;TYPE=GitHub:https://github.com/philippbruhin
 URL;TYPE=Play Store:https://play.google.com/store/apps/dev?id=9033207498041667894
-URL;TYPE=Spotify:https://open.spotify.com/user/https://open.spotify.com/artist/0pk7t6jbHYckxM1KWlOBRr
 URL;TYPE=App Store:https://apps.apple.com/us/app/sintio/id6504793744
-URL;TYPE=YouTube:https://youtube.com/https://www.youtube.com/@sintio
+URL;TYPE=YouTube:https://youtube.com/@sintio
 URL;TYPE=Instagram:https://instagram.com/sintio.ch
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:Sintio enables businesses to build, operate, and bill EV charging infrastructure with ease.
-UID:EnBizCard-100803949
+UID:EnBizCard-100892579
 END:VCARD
